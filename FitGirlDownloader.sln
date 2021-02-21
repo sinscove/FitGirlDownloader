@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30626.31
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FitGirlDownloader", "FitGirlDownloader.csproj", "{C28D8150-D442-4353-895F-BB21A2100005}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C28D8150-D442-4353-895F-BB21A2100005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C28D8150-D442-4353-895F-BB21A2100005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C28D8150-D442-4353-895F-BB21A2100005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C28D8150-D442-4353-895F-BB21A2100005}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FCDB65F-A847-4736-9A4B-FD67DEBDA2E4}
+	EndGlobalSection
+EndGlobal
